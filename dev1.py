@@ -1,3 +1,12 @@
+import pandas as pd
+
+
+
+
+
+
+
+
 """
 is_valid_input = False
 while is_valid_input is False:
@@ -9,6 +18,8 @@ while is_valid_input is False:
         print("Only integer values are allowed")
         continue
 """
+"""
+
 class cs:
     def __init__(self,a,b):
         self.a = a 
@@ -19,3 +30,4 @@ class cs:
 c = cs(1,2)
 c.mysum()
 
+"""
